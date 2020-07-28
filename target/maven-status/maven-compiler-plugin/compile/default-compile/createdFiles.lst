@@ -1,0 +1,6 @@
+com\test\alina\controller\ProductController.class
+com\test\alina\model\Product.class
+com\test\alina\Application.class
+com\test\alina\repository\ProductRepository.class
+com\test\alina\service\ProductService.class
+com\test\alina\service\impl\ProductServiceImpl.class
